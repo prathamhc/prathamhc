@@ -29,13 +29,9 @@ Drop a DM or just say hi 👋
 ## 🛠 Tech Stack
 
 **Languages:** JavaScript · TypeScript · Python · C++
-
 **Frontend:** React · Next.js · TailwindCSS · HTML · CSS
-
 **Backend:** Node.js · Express · MongoDB · Firebase
-
 **DevOps:** Docker · GitHub Actions · AWS
-
 **Tools:** Git · Linux · VS Code 
 
 
