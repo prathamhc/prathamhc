@@ -39,13 +39,13 @@ Drop a DM or just say hi 👋
 **Tools:** Git · Linux · VS Code 
 
 
-## 🎧 Now Playing
+<!-- ## 🎧 Now Playing
 [![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=your-spotify-id&cover_image=true&theme=default)](https://open.spotify.com/user/your-spotify-id)
 
----
+--- -->
 
 ## 🧿 Anime 
 
 > — Obito Uchiha (Naruto Shippuden)
 
-![Obito Uchiha](https://imgur.com/gallery/o-b-i-t-o-x9MVa)
+<!-- ![Obito Uchiha](https://imgur.com/gallery/o-b-i-t-o-x9MVa) -->
