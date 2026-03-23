@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm Pratham!
 
-💻 Full Stack Developer | Cloud Curious | AI Explorer  
+💻 Full Stack Developer | AI Explorer  
 📍 Based in India.
 
 ---
@@ -9,8 +9,8 @@
 - Building apps with **Next.js** + **React**  
 - Writing scalable backends using **Node.js & Express**  
 - Diving deep into **DevOps**: Docker · GitHub Actions · AWS  
-- Exploring **Deep Learning** frameworks and real-world ML use-cases  
-- Solving **DSA problems** regularly
+- Exploring **Deep Learning** frameworks
+- Solving **DSA problems** occasionally
  
 ---
 ## 🧰 Toolbox
@@ -46,7 +46,7 @@
 ## 📬 Let's Connect
 [![X](https://img.shields.io/badge/X-000000?style=flat&logo=twitter&logoColor=white)](https://x.com/pratham_hch)  
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=flat&logo=reddit&logoColor=white)](https://www.reddit.com/user/BugAccomplished9139/)  
-Drop a DM or just say hi 👋
+Drop a DM 👋
 
 ---
 ## 🛠 Tech Stack
@@ -55,7 +55,7 @@ Drop a DM or just say hi 👋
 
 **Frontend:** React · Next.js · TailwindCSS · HTML · CSS
 
-**Backend:** Node.js · Express · MongoDB · Firebase
+**Backend:** Node.js · Express · Firebase
 
 **DevOps:** Docker · GitHub Actions · AWS
 
@@ -65,9 +65,9 @@ Drop a DM or just say hi 👋
 
 ## 🎮 Beyond Code
 
-- 👾 Indie Game Dev (sometimes)
+- 👾 Indie Game Dev ( Novice )
 - 📷 Learning Photography
 - 🧘‍♂️ Meditation & Badminton to recharge
-- 🌀 Anime: JJK, Naruto, Vinland Saga
+- 🌀 Anime: JJK, Vinland Saga
 
 ---
